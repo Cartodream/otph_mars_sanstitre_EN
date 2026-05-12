@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="135.46666mm"
+   height="135.46666mm"
+   viewBox="0 0 135.46666 135.46666"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="patrimoine_mobilier_violet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0405163"
+     inkscape:cx="256.12286"
+     inkscape:cy="256.12286"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="3829"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.041672,-80.697922)"><image
+       width="135.46666"
+       height="135.46666"
+       preserveAspectRatio="none"
+       xlink:href="patrimoine_mobilier.png"
+       id="image1"
+       x="37.041672"
+       y="80.697922"
+       style="fill:#9f5cc0;fill-opacity:1" /><path
+       style="fill:#9f5cc0;fill-opacity:1"
+       d="m 43.920838,201.34792 v -3.96875 h 3.836458 c 3.030599,0 3.836458,-0.0745 3.836458,-0.35462 0,-0.85095 -1.706603,-3.64158 -3.361745,-5.49711 -4.304726,-4.8259 -5.61755,-8.96815 -5.629503,-17.76234 l -0.0046,-3.37343 H 104.775 166.95208 l -0.005,3.37343 c -0.012,8.79524 -1.27815,12.80149 -5.5957,17.70485 -1.68527,1.91394 -3.39555,4.71169 -3.39555,5.5546 0,0.28013 0.80586,0.35462 3.83646,0.35462 h 3.83645 v 3.96875 3.96875 h -8.10467 -8.10468 l 0.14666,-4.16719 c 0.23869,-6.78151 1.55018,-10.14428 5.77412,-14.80523 1.53643,-1.69538 2.96086,-4.22089 3.27489,-5.80637 l 0.16519,-0.834 -4.31482,0.91211 c -36.39457,7.69346 -62.370716,7.73066 -98.718614,0.1414 l -4.974643,-1.03868 0.163559,0.82658 c 0.31226,1.57807 1.739387,4.1064 3.27326,5.79896 4.217136,4.65345 5.518738,7.99237 5.771476,14.80523 l 0.15459,4.16719 h -8.10732 -8.10732 z m -1.259991,-49.01406 0.06937,-9.85573 H 104.775 166.81979 l 0.0694,9.85573 0.0694,9.85572 H 104.775 42.591481 Z m 33.2155,0 0.07322,-3.90261 H 69.592493 63.23542 v 3.97354 3.97354 l 6.283854,-0.0709 6.283854,-0.0709 z M 146.31458,152.4 v -3.96875 h -6.35 -6.35 v 3.79236 c 0,2.0858 0.0794,3.87174 0.17639,3.96875 0.097,0.097 2.95452,0.17639 6.35,0.17639 h 6.17361 z M 42.597921,124.48646 v -9.92187 H 104.775 166.95208 v 9.92187 9.92188 H 104.775 42.597921 Z m 33.278426,0.0662 0.07322,-3.90261 H 69.592493 63.23542 v 3.97354 3.97354 l 6.283854,-0.0709 6.283854,-0.0709 z m 70.438233,0.0661 V 120.65 h -6.35 -6.35 v 3.79236 c 0,2.0858 0.0794,3.87174 0.17639,3.96875 0.097,0.097 2.95452,0.17639 6.35,0.17639 h 6.17361 z M 42.597921,103.05521 v -3.571873 h -2.778124 -2.778125 v -3.968749 -3.96875 H 104.775 172.50833 v 3.96875 3.968749 h -2.77812 -2.77813 v 3.571873 3.57188 H 104.775 42.597921 Z"
+       id="path2" /></g></svg>
